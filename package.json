@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "browserslist": "^4.28.9",
-    "caniuse-lite": "^1.0.30001810",
+    "caniuse-lite": "^1.0.30001819",
     "fraction.js": "^5.3.4",
     "picocolors": "^1.1.1",
     "postcss-value-parser": "^4.2.0"
