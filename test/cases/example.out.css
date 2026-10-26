@@ -1,0 +1,13 @@
+::-moz-placeholder {
+  color: gray;
+}
+
+::placeholder {
+  color: gray;
+}
+
+.image {
+  width: -moz-available;
+  width: -webkit-fill-available;
+  width: stretch;
+}
